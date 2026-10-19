@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-lsp/pylsp-mypy/commit/738aed026f3d9e48907e22028dd97ecacedcbff0",
       "git:hexsha": "738aed026f3d9e48907e22028dd97ecacedcbff0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:15:12.677722+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-lsp/pylsp-mypy/commit/be5843ae7a96836114acd96f6b70a5936f52dc1a",
